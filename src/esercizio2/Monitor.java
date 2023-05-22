@@ -13,7 +13,6 @@ public class Monitor implements AbtractMonitor {
 
 	@Override
 	public void op() {
-		System.out.println("Monitor esegue una operazione!");
 	}
 
 }

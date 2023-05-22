@@ -1106,7 +1106,7 @@
 											"top": 399,
 											"width": 80.57080078125,
 											"height": 13,
-											"text": "Moniitor"
+											"text": "Monitor"
 										},
 										{
 											"_type": "LabelView",
@@ -3703,7 +3703,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Moniitor",
+					"name": "Monitor",
 					"ownedElements": [
 						{
 							"_type": "UMLRealization",

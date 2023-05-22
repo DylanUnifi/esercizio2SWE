@@ -12,12 +12,7 @@ public class Component extends Observable {
 		notifyObservers();
 	}
 	
-	public void op() {
-		System.out.println("Operazione che non modifica lo stato");
-	}
-	
 	public void op(int s) {
-		System.out.println("Operazione che apporta una modifica dello stato");
 		this.setState(s);
 	}
 }
